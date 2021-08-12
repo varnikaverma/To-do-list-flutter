@@ -2,7 +2,7 @@
 
 This app allows users to add tasks, check them off, and delete them by swiping using the Provider package.
 
-<img src="https://i.imgur.com/d0QBH5b.mp4" width="50%"/>
+<img src="https://i.imgur.com/d0QBH5b.gif" width="50%"/>
   
 ### Prerequisites
 
